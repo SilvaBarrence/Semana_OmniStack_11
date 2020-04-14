@@ -8,7 +8,7 @@ import Incidents from './pages/Incidents';
 import Detail from './pages/Detail';
 
 export default function Routes() {
-    return (
+    return ( 
         <NavigationContainer>
 
             <AppStack.Navigator screenOptions={{ headerShown: false }}>
@@ -17,5 +17,5 @@ export default function Routes() {
             </AppStack.Navigator>
 
         </NavigationContainer>
-    );
+    ); 
 }

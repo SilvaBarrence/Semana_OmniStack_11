@@ -17,7 +17,7 @@ export default StyleSheet.create({
         fontSize: 15,
         color: '#737380',
     },
-
+    
     headerTextBold: {
         fontWeight: 'bold'
     },
@@ -61,7 +61,7 @@ export default StyleSheet.create({
     },
 
     detailsButton: {
-        flexDirection: 'row',
+        flexDirection: 'row', 
         justifyContent: 'space-between',
         alignItems: 'center',
     },

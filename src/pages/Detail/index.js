@@ -59,7 +59,7 @@ export default function Detail() {
                         currency: 'BRL'
                     }).format(incident.value)}
                 </Text>
-            </View>
+            </View> 
 
             <View style={styles.contactBox}>
                 <Text style={styles.heroTitle}>Salve o dia!</Text>
