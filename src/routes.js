@@ -17,5 +17,5 @@ export default function Routes() {
             </AppStack.Navigator>
 
         </NavigationContainer>
-    ); 
+    );
 }
