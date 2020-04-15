@@ -64,7 +64,7 @@ export default StyleSheet.create({
         flexDirection: 'row', 
         justifyContent: 'space-between',
         alignItems: 'center',
-    },
+    }, 
  
     detailsButtonText: {
         color: '#e02041',
