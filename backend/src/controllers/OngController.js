@@ -1,4 +1,5 @@
 const crypto = require('crypto');
+const connections = require('../database/connections');
 
 module.exports = {
     async index(request, response) {
@@ -23,4 +24,4 @@ module.exports = {
 
         return response.json({ id });
     }
-}
+};
